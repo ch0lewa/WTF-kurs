@@ -1,0 +1,38 @@
+body {
+  background: wheat;
+}
+
+section {
+  background: ghostwhite;
+}
+
+h1 {
+  color: indigo;
+}
+
+p {
+  color: deepskyblue;
+}
+
+h3 {
+  color: darkseagreen;
+}
+
+.gold-header {
+  color: yellowgreen;
+}
+
+#top {
+  background: green;
+}
+
+a {
+  color: violet;
+}
+
+.header-link {
+  color: red;
+}
+#name {
+  columns: green;
+}
